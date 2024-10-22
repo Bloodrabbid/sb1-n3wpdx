@@ -1,0 +1,1 @@
+// This component is no longer needed as we're using Yandex Maps in ContactForm
